@@ -1,0 +1,9 @@
+{
+  "appId": "com.ryahdyfi.kajyvola",
+  "appName": "Kajy Vola",
+  "webDir": "www",
+  "backgroundColor": "#0b0e2a",
+  "android": {
+    "backgroundColor": "#0b0e2a"
+  }
+}
